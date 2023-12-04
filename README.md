@@ -1,2 +1,3 @@
 # SQL_TESTES
-Repositório dedicado a testes em SQL para criações de bancos de dados e criações de entidades para o meu desenvolvimento e  para aprimorar meu conhecimento técnico.
+
+Utilizo este repositório para armazenar meus exercícios de MySql e aproveito para compartilhar com o público o meu desenvolvimento nesta tecnologia.
